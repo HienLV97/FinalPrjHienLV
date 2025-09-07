@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="Suite Demo Final project AnhTester Teacher" verbose="1">
+    <test name="Suite Demo Final project AnhTester Teacher" parallel="methods" thread-count="1">
+        <classes>
+            <class name="AT07.POM.testcases.LoginTest"></class>
+        </classes>
+    </test>
+</suite>

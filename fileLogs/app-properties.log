@@ -1,0 +1,245 @@
+[INFO] 06-09-2025 23:04:39 - Launching Chrome browser...
+[INFO] 06-09-2025 23:04:41 - SCREENNAME: 3
+[INFO] 06-09-2025 23:04:41 - Running test case loginTestInvalidEmail
+[INFO] 06-09-2025 23:04:44 - Test case loginTestInvalidEmail is passed.
+[INFO] 06-09-2025 23:04:44 - Screenshot taken: Success_loginTestInvalidEmail
+[INFO] 06-09-2025 23:04:44 - Screenshot current URL: https://crm.anhtester.com/admin/authentication
+[INFO] 06-09-2025 23:04:44 - Driver đã được đóng.
+[INFO] 06-09-2025 23:04:44 - End testing Regression Test All1
+[INFO] 06-09-2025 23:05:48 - Launching Chrome browser...
+[INFO] 06-09-2025 23:05:50 - SCREENNAME: 3
+[INFO] 06-09-2025 23:05:50 - Running test case loginTestInvalidEmail
+[INFO] 06-09-2025 23:05:53 - Test case loginTestInvalidEmail is passed.
+[INFO] 06-09-2025 23:05:53 - Screenshot taken: Success_loginTestInvalidEmail
+[INFO] 06-09-2025 23:05:53 - Screenshot current URL: https://crm.anhtester.com/admin/authentication
+[INFO] 06-09-2025 23:05:53 - Driver đã được đóng.
+[INFO] 06-09-2025 23:05:53 - End testing Regression Test All1
+[INFO] 06-09-2025 23:06:12 - Launching Chrome browser...
+[INFO] 06-09-2025 23:06:13 - SCREENNAME: 3
+[INFO] 06-09-2025 23:06:13 - Running test case loginTestInvalidEmail
+[INFO] 06-09-2025 23:06:16 - Test case loginTestInvalidEmail is passed.
+[INFO] 06-09-2025 23:06:17 - Screenshot taken: Success_loginTestInvalidEmail
+[INFO] 06-09-2025 23:06:17 - Screenshot current URL: https://crm.anhtester.com/admin/authentication
+[INFO] 06-09-2025 23:06:17 - Driver đã được đóng.
+[INFO] 06-09-2025 23:06:17 - End testing Regression Test All1
+[INFO] 06-09-2025 23:08:16 - Launching Chrome browser...
+[INFO] 06-09-2025 23:08:17 - SCREENNAME: 3
+[INFO] 06-09-2025 23:08:18 - Running test case loginTestInvalidEmail
+[INFO] 06-09-2025 23:08:21 - Test case loginTestInvalidEmail is passed.
+[INFO] 06-09-2025 23:08:21 - Screenshot taken: Success_loginTestInvalidEmail
+[INFO] 06-09-2025 23:08:21 - Screenshot current URL: https://crm.anhtester.com/admin/authentication
+[INFO] 06-09-2025 23:08:21 - Driver đã được đóng.
+[INFO] 06-09-2025 23:08:21 - End testing Regression Test All1
+[INFO] 06-09-2025 23:09:05 - Launching Chrome browser...
+[INFO] 06-09-2025 23:09:06 - SCREENNAME: 3
+[INFO] 06-09-2025 23:09:07 - Running test case loginTestInvalidEmail
+[INFO] 06-09-2025 23:09:08 - Set text admin@example.com on input [[ChromeDriver: chrome on windows (611c6902f5c09e46e532c36d55bb9b40)] -> xpath: //input[@type='email']]
+[INFO] 06-09-2025 23:09:08 - Set text 123451 on input [[ChromeDriver: chrome on windows (611c6902f5c09e46e532c36d55bb9b40)] -> xpath: //input[@name='password']]
+[INFO] 06-09-2025 23:09:10 - Click on element [[ChromeDriver: chrome on windows (611c6902f5c09e46e532c36d55bb9b40)] -> xpath: (//button[@type='submit'])]
+[INFO] 06-09-2025 23:09:10 - Set text admin@example.com on input [[ChromeDriver: chrome on windows (611c6902f5c09e46e532c36d55bb9b40)] -> xpath: //input[@type='email']]
+[INFO] 06-09-2025 23:09:10 - Set text 123456 on input [[ChromeDriver: chrome on windows (611c6902f5c09e46e532c36d55bb9b40)] -> xpath: //input[@name='password']]
+[INFO] 06-09-2025 23:09:14 - Click on element [[ChromeDriver: chrome on windows (611c6902f5c09e46e532c36d55bb9b40)] -> xpath: (//button[@type='submit'])]
+[INFO] 06-09-2025 23:09:16 - Test case loginTestInvalidEmail is passed.
+[INFO] 06-09-2025 23:09:16 - Screenshot taken: Success_loginTestInvalidEmail
+[INFO] 06-09-2025 23:09:16 - Screenshot current URL: https://crm.anhtester.com/admin/
+[INFO] 06-09-2025 23:09:16 - Driver đã được đóng.
+[INFO] 06-09-2025 23:09:16 - End testing Regression Test All1
+[INFO] 06-09-2025 23:12:11 - Launching Chrome browser...
+[INFO] 06-09-2025 23:12:12 - SCREENNAME: 3
+[INFO] 06-09-2025 23:12:12 - Running test case loginTestInvalidEmail
+[INFO] 06-09-2025 23:12:13 - Set text hien.le@gmail.com on input [[ChromeDriver: chrome on windows (a1e8dc318acc5da9a3146f0315ce6523)] -> xpath: //input[@type='email']]
+[INFO] 06-09-2025 23:12:13 - Set text 123123 on input [[ChromeDriver: chrome on windows (a1e8dc318acc5da9a3146f0315ce6523)] -> xpath: //input[@name='password']]
+[INFO] 06-09-2025 23:12:16 - Click on element [[ChromeDriver: chrome on windows (a1e8dc318acc5da9a3146f0315ce6523)] -> xpath: (//button[@type='submit'])]
+[INFO] 06-09-2025 23:12:18 - Test case loginTestInvalidEmail is passed.
+[INFO] 06-09-2025 23:12:18 - Screenshot taken: Success_loginTestInvalidEmail
+[INFO] 06-09-2025 23:12:18 - Screenshot current URL: https://crm.anhtester.com/admin/authentication
+[INFO] 06-09-2025 23:12:18 - Driver đã được đóng.
+[INFO] 06-09-2025 23:12:18 - End testing Regression Test All1
+[INFO] 06-09-2025 23:33:26 - Launching Chrome browser...
+[INFO] 06-09-2025 23:33:28 - SCREENNAME: 3
+[INFO] 06-09-2025 23:33:28 - Running test case loginTestInvalidEmail
+[INFO] 06-09-2025 23:33:29 - Set text hien.le@gmail.com on input [[ChromeDriver: chrome on windows (fb0129b4c01de38289653f917ffca162)] -> xpath: //input[@type='email']]
+[INFO] 06-09-2025 23:33:29 - Set text 123123 on input [[ChromeDriver: chrome on windows (fb0129b4c01de38289653f917ffca162)] -> xpath: //input[@name='password']]
+[INFO] 06-09-2025 23:33:32 - Click on element [[ChromeDriver: chrome on windows (fb0129b4c01de38289653f917ffca162)] -> xpath: //button[@type='submit']]
+[ERROR] 06-09-2025 23:33:32 - Test case loginTestInvalidEmail is failed.
+[ERROR] 06-09-2025 23:33:32 - java.lang.ClassCastException: class jdk.proxy2.$Proxy33 cannot be cast to class org.openqa.selenium.By (jdk.proxy2.$Proxy33 is in module jdk.proxy2 of loader 'app'; org.openqa.selenium.By is in unnamed module of loader 'app')
+[INFO] 06-09-2025 23:33:32 - Screenshot taken: Fail_loginTestInvalidEmail
+[INFO] 06-09-2025 23:33:32 - Screenshot current URL: https://crm.anhtester.com/admin/authentication
+[INFO] 06-09-2025 23:33:32 - Driver đã được đóng.
+[INFO] 06-09-2025 23:33:32 - End testing Regression Test All1
+[INFO] 06-09-2025 23:33:51 - Launching Chrome browser...
+[INFO] 06-09-2025 23:33:52 - SCREENNAME: 3
+[INFO] 06-09-2025 23:33:52 - Running test case loginTestInvalidEmail
+[INFO] 06-09-2025 23:33:54 - Set text hien.le@gmail.com on input [[ChromeDriver: chrome on windows (cfef4f41cb0a21dcdc41ac78ce19d653)] -> xpath: //input[@type='email']]
+[INFO] 06-09-2025 23:33:54 - Set text 123123 on input [[ChromeDriver: chrome on windows (cfef4f41cb0a21dcdc41ac78ce19d653)] -> xpath: //input[@name='password']]
+[INFO] 06-09-2025 23:33:56 - Click on element [[ChromeDriver: chrome on windows (cfef4f41cb0a21dcdc41ac78ce19d653)] -> xpath: //button[@type='submit']]
+[ERROR] 06-09-2025 23:33:58 - Test case loginTestInvalidEmail is failed.
+[ERROR] 06-09-2025 23:33:58 - java.lang.ClassCastException: class jdk.proxy2.$Proxy33 cannot be cast to class org.openqa.selenium.By (jdk.proxy2.$Proxy33 is in module jdk.proxy2 of loader 'app'; org.openqa.selenium.By is in unnamed module of loader 'app')
+[INFO] 06-09-2025 23:33:58 - Screenshot taken: Fail_loginTestInvalidEmail
+[INFO] 06-09-2025 23:33:58 - Screenshot current URL: https://crm.anhtester.com/admin/authentication
+[INFO] 06-09-2025 23:33:58 - Driver đã được đóng.
+[INFO] 06-09-2025 23:33:58 - End testing Regression Test All1
+[INFO] 06-09-2025 23:36:46 - Launching Chrome browser...
+[INFO] 06-09-2025 23:36:47 - SCREENNAME: 3
+[INFO] 06-09-2025 23:36:47 - Running test case loginTestInvalidEmail
+[INFO] 06-09-2025 23:36:48 - Set text hien.le@gmail.com on input [[ChromeDriver: chrome on windows (6f7b4d12a186d3f08b168c5f7391aac6)] -> xpath: //input[@type='email']]
+[INFO] 06-09-2025 23:36:48 - Set text 123123 on input [[ChromeDriver: chrome on windows (6f7b4d12a186d3f08b168c5f7391aac6)] -> xpath: //input[@name='password']]
+[INFO] 06-09-2025 23:36:51 - Click on element [[ChromeDriver: chrome on windows (6f7b4d12a186d3f08b168c5f7391aac6)] -> xpath: //button[@type='submit']]
+[ERROR] 06-09-2025 23:36:53 - Test case loginTestInvalidEmail is failed.
+[ERROR] 06-09-2025 23:36:53 - java.lang.ClassCastException: class jdk.proxy2.$Proxy33 cannot be cast to class org.openqa.selenium.By (jdk.proxy2.$Proxy33 is in module jdk.proxy2 of loader 'app'; org.openqa.selenium.By is in unnamed module of loader 'app')
+[INFO] 06-09-2025 23:36:53 - Screenshot taken: Fail_loginTestInvalidEmail
+[INFO] 06-09-2025 23:36:53 - Screenshot current URL: https://crm.anhtester.com/admin/authentication
+[INFO] 06-09-2025 23:36:53 - Driver đã được đóng.
+[INFO] 06-09-2025 23:36:53 - End testing Regression Test All1
+[INFO] 06-09-2025 23:38:24 - Launching Chrome browser...
+[INFO] 06-09-2025 23:38:25 - SCREENNAME: 3
+[INFO] 06-09-2025 23:38:25 - Running test case loginTestInvalidEmail
+[INFO] 06-09-2025 23:38:26 - Set text hien.le@gmail.com on input [[ChromeDriver: chrome on windows (4b0110eb89adf7aa376d0c77723670fb)] -> xpath: //input[@type='email']]
+[INFO] 06-09-2025 23:38:26 - Set text 123123 on input [[ChromeDriver: chrome on windows (4b0110eb89adf7aa376d0c77723670fb)] -> xpath: //input[@name='password']]
+[INFO] 06-09-2025 23:38:28 - Click on element [[ChromeDriver: chrome on windows (4b0110eb89adf7aa376d0c77723670fb)] -> xpath: //button[@type='submit']]
+[ERROR] 06-09-2025 23:38:31 - Test case loginTestInvalidEmail is failed.
+[ERROR] 06-09-2025 23:38:31 - java.lang.ClassCastException: class jdk.proxy2.$Proxy33 cannot be cast to class org.openqa.selenium.By (jdk.proxy2.$Proxy33 is in module jdk.proxy2 of loader 'app'; org.openqa.selenium.By is in unnamed module of loader 'app')
+[INFO] 06-09-2025 23:38:31 - Screenshot taken: Fail_loginTestInvalidEmail
+[INFO] 06-09-2025 23:38:31 - Screenshot current URL: https://crm.anhtester.com/admin/authentication
+[INFO] 06-09-2025 23:38:31 - Driver đã được đóng.
+[INFO] 06-09-2025 23:38:31 - End testing Regression Test All1
+[INFO] 06-09-2025 23:38:49 - Launching Chrome browser...
+[INFO] 06-09-2025 23:38:50 - SCREENNAME: 3
+[INFO] 06-09-2025 23:38:50 - Running test case loginTestInvalidEmail
+[INFO] 06-09-2025 23:38:51 - Set text hien.le@gmail.com on input [[ChromeDriver: chrome on windows (d6f4d2fc5f04fa9840df82cee31ef32f)] -> xpath: //input[@type='email']]
+[INFO] 06-09-2025 23:38:51 - Set text 123123 on input [[ChromeDriver: chrome on windows (d6f4d2fc5f04fa9840df82cee31ef32f)] -> xpath: //input[@name='password']]
+[INFO] 06-09-2025 23:38:54 - Click on element [[ChromeDriver: chrome on windows (d6f4d2fc5f04fa9840df82cee31ef32f)] -> xpath: //button[@type='submit']]
+[ERROR] 06-09-2025 23:38:56 - Test case loginTestInvalidEmail is failed.
+[ERROR] 06-09-2025 23:38:56 - java.lang.ClassCastException: class jdk.proxy2.$Proxy33 cannot be cast to class org.openqa.selenium.By (jdk.proxy2.$Proxy33 is in module jdk.proxy2 of loader 'app'; org.openqa.selenium.By is in unnamed module of loader 'app')
+[INFO] 06-09-2025 23:38:56 - Screenshot taken: Fail_loginTestInvalidEmail
+[INFO] 06-09-2025 23:38:56 - Screenshot current URL: https://crm.anhtester.com/admin/authentication
+[INFO] 06-09-2025 23:38:56 - Driver đã được đóng.
+[INFO] 06-09-2025 23:38:56 - End testing Regression Test All1
+[INFO] 06-09-2025 23:41:14 - Launching Chrome browser...
+[INFO] 06-09-2025 23:41:15 - SCREENNAME: 3
+[INFO] 06-09-2025 23:41:15 - Running test case loginTestInvalidEmail
+[INFO] 06-09-2025 23:41:16 - Set text hien.le@gmail.com on input [[ChromeDriver: chrome on windows (8b72b44199dddc2748c6df792ae4f593)] -> xpath: //input[@type='email']]
+[INFO] 06-09-2025 23:41:16 - Set text 123123 on input [[ChromeDriver: chrome on windows (8b72b44199dddc2748c6df792ae4f593)] -> xpath: //input[@name='password']]
+[INFO] 06-09-2025 23:41:19 - Click on element [[ChromeDriver: chrome on windows (8b72b44199dddc2748c6df792ae4f593)] -> xpath: //button[@type='submit']]
+[INFO] 06-09-2025 23:41:21 - Element By.xpath: //div[contains(@class,'alert alert-danger')] existing.
+[INFO] 06-09-2025 23:41:21 - Get text of element By.xpath: //div[contains(@class,'alert alert-danger')] is: Invalid email or password
+[INFO] 06-09-2025 23:41:23 - Test case loginTestInvalidEmail is passed.
+[INFO] 06-09-2025 23:41:23 - Screenshot taken: Success_loginTestInvalidEmail
+[INFO] 06-09-2025 23:41:23 - Screenshot current URL: https://crm.anhtester.com/admin/authentication
+[INFO] 06-09-2025 23:41:23 - Driver đã được đóng.
+[INFO] 06-09-2025 23:41:23 - End testing Regression Test All1
+[INFO] 07-09-2025 11:01:17 - Launching Chrome browser...
+[INFO] 07-09-2025 11:01:21 - SCREENNAME: 3
+[INFO] 07-09-2025 11:01:21 - Running test case loginTestInvalidEmail
+[INFO] 07-09-2025 11:01:23 - Set text hien.le@gmail.com on input [[ChromeDriver: chrome on windows (332602031b36ee0bec5acd39258f6d5b)] -> xpath: //input[@type='email']]
+[INFO] 07-09-2025 11:01:23 - Set text 123123 on input [[ChromeDriver: chrome on windows (332602031b36ee0bec5acd39258f6d5b)] -> xpath: //input[@name='password']]
+[INFO] 07-09-2025 11:01:26 - Click on element [[ChromeDriver: chrome on windows (332602031b36ee0bec5acd39258f6d5b)] -> xpath: //button[@type='submit']]
+[INFO] 07-09-2025 11:01:28 - vao day
+[INFO] 07-09-2025 11:01:28 - Element By.xpath: //div[contains(@class,'alert alert-danger')] existing.
+[INFO] 07-09-2025 11:01:28 - Get text of element By.xpath: //div[contains(@class,'alert alert-danger')] is: Invalid email or password
+[INFO] 07-09-2025 11:01:30 - Test case loginTestInvalidEmail is passed.
+[INFO] 07-09-2025 11:01:30 - Screenshot taken: Success_loginTestInvalidEmail
+[INFO] 07-09-2025 11:01:30 - Screenshot current URL: https://crm.anhtester.com/admin/authentication
+[INFO] 07-09-2025 11:01:30 - Driver đã được đóng.
+[INFO] 07-09-2025 11:01:30 - End testing Regression Test All1
+[INFO] 07-09-2025 11:40:49 - Launching Chrome browser...
+[INFO] 07-09-2025 11:40:50 - SCREENNAME: 3
+[INFO] 07-09-2025 11:40:50 - Running test case loginTestInvalidEmail
+[ERROR] 07-09-2025 11:40:52 - Test case loginTestInvalidEmail is failed.
+[ERROR] 07-09-2025 11:40:52 - java.lang.NullPointerException: Cannot invoke "String.equals(Object)" because "value" is null
+[INFO] 07-09-2025 11:40:52 - Screenshot taken: Fail_loginTestInvalidEmail
+[INFO] 07-09-2025 11:40:52 - Screenshot current URL: https://crm.anhtester.com/admin/authentication
+[INFO] 07-09-2025 11:40:53 - Driver đã được đóng.
+[INFO] 07-09-2025 11:40:53 - End testing Regression Test All1
+[INFO] 07-09-2025 11:41:28 - Launching Chrome browser...
+[INFO] 07-09-2025 11:41:30 - SCREENNAME: 1
+[INFO] 07-09-2025 11:41:30 - Running test case loginTestInvalidEmail
+[ERROR] 07-09-2025 11:41:31 - Test case loginTestInvalidEmail is failed.
+[ERROR] 07-09-2025 11:41:31 - java.lang.NullPointerException: Cannot invoke "String.equals(Object)" because "value" is null
+[INFO] 07-09-2025 11:41:32 - Screenshot taken: Fail_loginTestInvalidEmail
+[INFO] 07-09-2025 11:41:32 - Screenshot current URL: https://crm.anhtester.com/admin/authentication
+[INFO] 07-09-2025 11:41:32 - Driver đã được đóng.
+[INFO] 07-09-2025 11:41:32 - End testing Regression Test All1
+[INFO] 07-09-2025 11:44:37 - Launching Chrome browser...
+[INFO] 07-09-2025 11:44:38 - SCREENNAME: 1
+[INFO] 07-09-2025 11:44:39 - Running test case loginTestInvalidEmail
+[ERROR] 07-09-2025 11:44:40 - Test case loginTestInvalidEmail is failed.
+[ERROR] 07-09-2025 11:44:40 - java.lang.NullPointerException: Cannot invoke "String.equals(Object)" because "helpers.CaptureHelper.screenName" is null
+[INFO] 07-09-2025 11:44:41 - Screenshot taken: Fail_loginTestInvalidEmail
+[INFO] 07-09-2025 11:44:41 - Screenshot current URL: https://crm.anhtester.com/admin/authentication
+[INFO] 07-09-2025 11:44:41 - Driver đã được đóng.
+[INFO] 07-09-2025 11:44:41 - End testing Regression Test All1
+[INFO] 07-09-2025 11:46:50 - Launching Chrome browser...
+[INFO] 07-09-2025 11:46:51 - SCREENNAME: 1
+[INFO] 07-09-2025 11:46:52 - Running test case loginTestInvalidEmail
+[ERROR] 07-09-2025 11:46:52 - Test case loginTestInvalidEmail is failed.
+[ERROR] 07-09-2025 11:46:52 - java.lang.NullPointerException: Cannot invoke "String.equals(Object)" because "helpers.CaptureHelper.screenName" is null
+[INFO] 07-09-2025 11:46:52 - Screenshot taken: Fail_loginTestInvalidEmail
+[INFO] 07-09-2025 11:46:52 - Screenshot current URL: data:,
+[INFO] 07-09-2025 11:46:52 - Driver đã được đóng.
+[INFO] 07-09-2025 11:46:52 - End testing Regression Test All1
+[INFO] 07-09-2025 11:49:59 - Launching Chrome browser...
+[INFO] 07-09-2025 11:50:00 - SCREENNAME: 1
+[INFO] 07-09-2025 11:50:00 - Running test case loginTestInvalidEmail
+[INFO] 07-09-2025 11:50:03 - Set text hien.le@gmail.com on input [[ChromeDriver: chrome on windows (4358fd9e03d51c70cb930fd0e2f1f76c)] -> xpath: //input[@type='email']]
+[INFO] 07-09-2025 11:50:03 - Set text 123123 on input [[ChromeDriver: chrome on windows (4358fd9e03d51c70cb930fd0e2f1f76c)] -> xpath: //input[@name='password']]
+[INFO] 07-09-2025 11:50:05 - Click on element [[ChromeDriver: chrome on windows (4358fd9e03d51c70cb930fd0e2f1f76c)] -> xpath: //button[@type='submit']]
+[INFO] 07-09-2025 11:50:07 - Element By.xpath: //div[contains(@class,'alert alert-danger')] existing.
+[INFO] 07-09-2025 11:50:07 - Get text of element By.xpath: //div[contains(@class,'alert alert-danger')] is: Invalid email or password
+[INFO] 07-09-2025 11:50:09 - Test case loginTestInvalidEmail is passed.
+[INFO] 07-09-2025 11:50:09 - Screenshot taken: Success_loginTestInvalidEmail
+[INFO] 07-09-2025 11:50:10 - Screenshot current URL: https://crm.anhtester.com/admin/authentication
+[INFO] 07-09-2025 11:50:10 - Driver đã được đóng.
+[INFO] 07-09-2025 11:50:10 - End testing Regression Test All1
+[INFO] 07-09-2025 11:56:51 - Launching Chrome browser...
+[INFO] 07-09-2025 11:56:52 - SCREENNAME: 1
+[INFO] 07-09-2025 11:56:52 - Running test case loginTestInvalidEmail
+[INFO] 07-09-2025 11:56:54 - Set text hien.le@gmail.com on input [[ChromeDriver: chrome on windows (d19327b37d818f40a073e4c2164c68c3)] -> xpath: //input[@type='email']]
+[INFO] 07-09-2025 11:56:54 - Set text 123123 on input [[ChromeDriver: chrome on windows (d19327b37d818f40a073e4c2164c68c3)] -> xpath: //input[@name='password']]
+[INFO] 07-09-2025 11:56:56 - Click on element [[ChromeDriver: chrome on windows (d19327b37d818f40a073e4c2164c68c3)] -> xpath: //button[@type='submit']]
+[INFO] 07-09-2025 11:56:58 - Element By.xpath: //div[contains(@class,'alert alert-danger')] existing.
+[INFO] 07-09-2025 11:56:58 - Get text of element By.xpath: //div[contains(@class,'alert alert-danger')] is: Invalid email or password
+[INFO] 07-09-2025 11:57:00 - Test case loginTestInvalidEmail is passed.
+[INFO] 07-09-2025 11:57:00 - Screenshot taken: Success_loginTestInvalidEmail
+[INFO] 07-09-2025 11:57:00 - Screenshot current URL: https://crm.anhtester.com/admin/authentication
+[INFO] 07-09-2025 11:57:00 - Driver đã được đóng.
+[INFO] 07-09-2025 11:57:00 - End testing Regression Test All1
+[INFO] 07-09-2025 12:01:02 - Launching Chrome browser...
+[INFO] 07-09-2025 12:01:04 - SCREENNAME: 1
+[INFO] 07-09-2025 12:01:04 - Running test case loginTestInvalidEmail
+[INFO] 07-09-2025 12:01:06 - Set text hien.le@gmail.com on input [[ChromeDriver: chrome on windows (b961eaa37bfaae383bd313c8a0f7e44e)] -> xpath: //input[@type='email']]
+[INFO] 07-09-2025 12:01:06 - Set text 123123 on input [[ChromeDriver: chrome on windows (b961eaa37bfaae383bd313c8a0f7e44e)] -> xpath: //input[@name='password']]
+[INFO] 07-09-2025 12:01:09 - Click on element [[ChromeDriver: chrome on windows (b961eaa37bfaae383bd313c8a0f7e44e)] -> xpath: //button[@type='submit']]
+[INFO] 07-09-2025 12:01:11 - Element By.xpath: //div[contains(@class,'alert alert-danger')] existing.
+[INFO] 07-09-2025 12:01:11 - Get text of element By.xpath: //div[contains(@class,'alert alert-danger')] is: Invalid email or password
+[INFO] 07-09-2025 12:01:13 - Test case loginTestInvalidEmail is passed.
+[INFO] 07-09-2025 12:01:13 - Screenshot taken: Success_loginTestInvalidEmail
+[INFO] 07-09-2025 12:01:13 - Screenshot current URL: https://crm.anhtester.com/admin/authentication
+[INFO] 07-09-2025 12:01:13 - Driver đã được đóng.
+[INFO] 07-09-2025 12:01:13 - End testing Regression Test All1
+[INFO] 07-09-2025 21:03:17 - Launching Chrome browser...
+[INFO] 07-09-2025 21:03:23 - SCREENNAME: 1
+[INFO] 07-09-2025 21:03:23 - Running test case loginTestInvalidEmail
+[INFO] 07-09-2025 21:03:26 - Set text hien.le@gmail.com on input [[ChromeDriver: chrome on windows (181afaa3f3aecb5c8cbea68ddd1e3f5f)] -> xpath: //input[@type='email']]
+[INFO] 07-09-2025 21:03:26 - Set text 123123 on input [[ChromeDriver: chrome on windows (181afaa3f3aecb5c8cbea68ddd1e3f5f)] -> xpath: //input[@name='password']]
+[INFO] 07-09-2025 21:03:28 - Click on element [[ChromeDriver: chrome on windows (181afaa3f3aecb5c8cbea68ddd1e3f5f)] -> xpath: //button[@type='submit']]
+[INFO] 07-09-2025 21:03:30 - Element By.xpath: //div[contains(@class,'alert alert-danger')] existing.
+[INFO] 07-09-2025 21:03:30 - Get text of element By.xpath: //div[contains(@class,'alert alert-danger')] is: Invalid email or password
+[INFO] 07-09-2025 21:03:32 - Test case loginTestInvalidEmail is passed.
+[INFO] 07-09-2025 21:03:33 - Screenshot taken: Success_loginTestInvalidEmail
+[INFO] 07-09-2025 21:03:33 - Screenshot current URL: https://crm.anhtester.com/admin/authentication
+[INFO] 07-09-2025 21:03:33 - Driver đã được đóng.
+[INFO] 07-09-2025 21:03:33 - End testing Regression Test All1
+[INFO] 07-09-2025 21:14:24 - Launching Chrome browser...
+[INFO] 07-09-2025 21:14:26 - SCREENNAME: 1
+[INFO] 07-09-2025 21:14:26 - Running test case loginTestInvalidEmail
+[INFO] 07-09-2025 21:14:28 - Set text hien.le@gmail.com on input [[ChromeDriver: chrome on windows (fa896aad9030e12a9ebcb5c5cd0a9334)] -> xpath: //input[@type='email']]
+[INFO] 07-09-2025 21:14:28 - Set text 123123 on input [[ChromeDriver: chrome on windows (fa896aad9030e12a9ebcb5c5cd0a9334)] -> xpath: //input[@name='password']]
+[INFO] 07-09-2025 21:14:31 - Click on element [[ChromeDriver: chrome on windows (fa896aad9030e12a9ebcb5c5cd0a9334)] -> xpath: //button[@type='submit']]
+[INFO] 07-09-2025 21:14:33 - Element By.xpath: //div[contains(@class,'alert alert-danger')] existing.
+[INFO] 07-09-2025 21:14:33 - Get text of element By.xpath: //div[contains(@class,'alert alert-danger')] is: Invalid email or password
+[INFO] 07-09-2025 21:14:35 - Test case loginTestInvalidEmail is passed.
+[INFO] 07-09-2025 21:14:36 - Screenshot taken: Success_loginTestInvalidEmail
+[INFO] 07-09-2025 21:14:36 - Screenshot current URL: https://crm.anhtester.com/admin/authentication
+[INFO] 07-09-2025 21:14:36 - Driver đã được đóng.
+[INFO] 07-09-2025 21:14:36 - End testing Regression Test All1
