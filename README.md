@@ -13,3 +13,5 @@
 - Parallel Execution cho toàn bộ project
 - Các thông số configs ở file Properties
 - Các data test ở file Excel (chia theo Sheet và File)
+
+- Run allure report: allure serve target/allure-results
