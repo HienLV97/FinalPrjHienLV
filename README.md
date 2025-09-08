@@ -15,3 +15,4 @@
 - Các data test ở file Excel (chia theo Sheet và File)
 
 - Run allure report: allure serve target/allure-results
+- allure generate target/allure-results -o target/allure-report --clean
