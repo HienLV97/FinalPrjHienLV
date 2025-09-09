@@ -243,3 +243,40 @@
 [INFO] 07-09-2025 21:14:36 - Screenshot current URL: https://crm.anhtester.com/admin/authentication
 [INFO] 07-09-2025 21:14:36 - Driver đã được đóng.
 [INFO] 07-09-2025 21:14:36 - End testing Regression Test All1
+[INFO] 09-09-2025 14:54:21 - Launching Chrome browser...
+[INFO] 09-09-2025 14:54:31 - SCREENNAME: 1
+[INFO] 09-09-2025 14:54:31 - Running test case loginTestInvalidEmail
+[INFO] 09-09-2025 14:54:42 - Set text hien.le@gmail.com on input [[ChromeDriver: chrome on mac (d909bd48b73a793325be5e1a6244ec22)] -> xpath: //input[@type='email']]
+[INFO] 09-09-2025 14:54:43 - Set text 123123 on input [[ChromeDriver: chrome on mac (d909bd48b73a793325be5e1a6244ec22)] -> xpath: //input[@name='password']]
+[INFO] 09-09-2025 14:54:46 - Click on element [[ChromeDriver: chrome on mac (d909bd48b73a793325be5e1a6244ec22)] -> xpath: //button[@type='submit']]
+[INFO] 09-09-2025 14:54:48 - Element By.xpath: //div[contains(@class,'alert alert-danger')] existing.
+[INFO] 09-09-2025 14:54:48 - Get text of element By.xpath: //div[contains(@class,'alert alert-danger')] is: Invalid email or password
+[INFO] 09-09-2025 14:54:50 - Test case loginTestInvalidEmail is passed.
+[INFO] 09-09-2025 14:54:51 - Screenshot taken: Success_loginTestInvalidEmail
+[INFO] 09-09-2025 14:54:51 - Screenshot current URL: https://crm.anhtester.com/admin/authentication
+[INFO] 09-09-2025 14:54:51 - Driver đã được đóng.
+[INFO] 09-09-2025 14:54:51 - End testing Regression Test All1
+[INFO] 09-09-2025 15:25:56 - Launching Chrome browser...
+[INFO] 09-09-2025 15:26:00 - SCREENNAME: 1
+[INFO] 09-09-2025 15:26:00 - Running test case loginTestInvalidEmail
+[ERROR] 09-09-2025 15:26:01 - Test case loginTestInvalidEmail is failed.
+[ERROR] 09-09-2025 15:26:01 - java.lang.NoClassDefFoundError: org/apache/poi/logging/PoiLogManager
+[INFO] 09-09-2025 15:26:02 - Screenshot taken: loginTestInvalidEmail
+[INFO] 09-09-2025 15:26:02 - Screenshot current URL: https://crm.anhtester.com/admin/authentication
+[INFO] 09-09-2025 15:26:02 - Screenshot taken: Fail_loginTestInvalidEmail
+[INFO] 09-09-2025 15:26:02 - Screenshot current URL: https://crm.anhtester.com/admin/authentication
+[INFO] 09-09-2025 15:26:02 - Driver đã được đóng.
+[INFO] 09-09-2025 15:26:07 - End testing Regression Test All1
+[INFO] 09-09-2025 15:55:27 - Launching Chrome browser...
+[INFO] 09-09-2025 15:55:29 - SCREENNAME: 1
+[INFO] 09-09-2025 15:55:30 - Running test case loginTestInvalidEmail
+[INFO] 09-09-2025 15:55:31 - Set text hien.le@gmail.com on input [[ChromeDriver: chrome on mac (ca4a2b7d15c07e4de15ccebadd118681)] -> xpath: //input[@type='email']]
+[INFO] 09-09-2025 15:55:31 - Set text 123123 on input [[ChromeDriver: chrome on mac (ca4a2b7d15c07e4de15ccebadd118681)] -> xpath: //input[@name='password']]
+[INFO] 09-09-2025 15:55:34 - Click on element [[ChromeDriver: chrome on mac (ca4a2b7d15c07e4de15ccebadd118681)] -> xpath: //button[@type='submit']]
+[INFO] 09-09-2025 15:55:36 - Element By.xpath: //div[contains(@class,'alert alert-danger')] existing.
+[INFO] 09-09-2025 15:55:36 - Get text of element By.xpath: //div[contains(@class,'alert alert-danger')] is: Invalid email or password
+[INFO] 09-09-2025 15:55:38 - Test case loginTestInvalidEmail is passed.
+[INFO] 09-09-2025 15:55:39 - Screenshot taken: Success_loginTestInvalidEmail
+[INFO] 09-09-2025 15:55:39 - Screenshot current URL: https://crm.anhtester.com/admin/authentication
+[INFO] 09-09-2025 15:55:39 - Driver đã được đóng.
+[INFO] 09-09-2025 15:55:44 - End testing Regression Test All1

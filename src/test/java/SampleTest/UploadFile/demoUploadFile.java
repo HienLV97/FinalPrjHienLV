@@ -11,7 +11,7 @@ import java.lang.reflect.Method;
 import java.awt.*;
 import java.io.IOException;
 
-public class DemoUploadFile extends Init {
+public class demoUploadFile extends Init {
 	@Test
 	public void testHomePage1(Method method) throws IOException, AWTException {
 		CaptureHelper.startRecord("test2");

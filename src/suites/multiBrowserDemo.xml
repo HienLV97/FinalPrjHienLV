@@ -2,19 +2,6 @@
 
 <suite name="Suite All" verbose="1">
 
-<!--    <test name="Regression Test All" parallel="methods">-->
-<!--        <parameter name="browser" value="firefox"/>-->
-<!--        <classes>-->
-<!--            <class name="onMac.multiBrowser" />-->
-<!--        </classes>-->
-<!--    </test>-->
-
-<!--    <test name="Regression Test All1" parallel="methods">-->
-<!--        <parameter name="browser" value="chrome"/>-->
-<!--        <classes>-->
-<!--            <class name="onMac.multiBrowser" />-->
-<!--        </classes>-->
-<!--    </test> -->
     <test name="Regression Test All1" parallel="methods">
         <parameter name="browser" value="chrome"/>
         <classes>
